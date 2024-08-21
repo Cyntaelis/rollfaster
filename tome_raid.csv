@@ -1,0 +1,77 @@
+Job,Set,Head,Body,Hands,Legs,Feet,Ears,Neck,Wrists,Ring
+AST,Advanced (2.50 i729),False,True,False,False,True,True,False,True,True
+AST,Battle (2.48 i729),False,True,False,False,True,True,False,True,True
+AST,Challenge (2.49 i729),False,True,False,False,True,True,False,True,True
+AST,Destiny Deoxys (2.49 i727),False,True,False,False,False,True,False,True,True
+AST,Frontier (2.31 i729),False,False,False,False,True,True,False,True,True
+AST,Misery Buffed (2.48 i730),False,True,True,False,True,True,False,True,True
+AST,Molastro (2.50 i730),False,True,True,False,True,True,False,True,True
+AST,Myster of Mew (2.48 i727),False,True,False,False,False,True,False,True,True
+AST,Nah I'd Fast (2.32 i730),False,False,True,False,True,True,False,True,True
+AST,Ranger Special (2.32 i729),False,False,False,False,True,True,False,True,True
+AST,Slideshow (2.49 i730),False,True,True,False,True,True,False,True,True
+AST,Temple of the Sea (2.32 i727),False,False,False,False,False,True,False,True,True
+AST,Wish Maker (2.50 i727),False,True,False,False,False,True,False,True,True
+BLM,2.19 Max SpS BIS,True,False,False,True,False,False,True,False,True
+BLM,2.24 High SpS BIS,True,False,False,True,False,False,True,False,True
+BLM,2.36 High Crit BIS,False,True,True,False,True,True,False,True,True
+BLM,2.40 High Crit BIS,False,True,True,False,False,True,False,True,True
+BLM,2.42 BIS (Omni Compatible),False,True,True,False,True,True,False,True,True
+BRD,2.50 BIS,True,False,False,True,True,False,True,False,True
+DNC,2.50 BiS,True,False,False,True,True,False,True,False,True
+DRG,2.50 BIS,False,True,False,False,True,True,False,True,True
+DRK,2.46 BiS,True,False,False,True,False,True,True,False,True
+DRK,2.50 BiS,True,False,True,True,False,False,True,False,True
+GNB,2.40 BIS,True,False,False,True,False,True,True,False,True
+GNB,2.45 BIS,True,False,False,True,False,True,True,False,True
+GNB,2.50 BIS,True,False,True,True,False,False,True,False,True
+MCH,2.50 BIS,True,False,False,True,True,False,True,False,True
+MNK,1.94 BIS,False,False,False,True,True,False,False,True,True
+MNK,1.94 BIS (SAM Compatible),False,False,False,True,True,False,False,True,True
+NIN,2.12 BIS,True,True,False,False,True,False,True,False,True
+PCT,2.48 BIS,False,True,False,False,True,True,False,True,True
+PCT,2.50 BIS,False,True,False,False,True,True,False,True,True
+PLD,2.50 BIS,True,False,True,True,False,False,True,False,True
+RDM,2.48 BIS,False,True,False,False,True,True,False,True,True
+RDM,2.49 BIS,False,True,False,False,True,True,False,True,True
+RDM,2.50 BIS,False,True,False,False,True,True,False,True,True
+RPR,2.48 BIS (60fps),False,True,False,False,True,True,False,True,True
+RPR,2.49 BIS,False,True,False,False,True,True,False,True,True
+SAM,2.08 BIS,False,False,False,True,True,False,False,True,True
+SAM,2.14 BIS,False,False,False,True,True,True,False,True,True
+SCH,2.31 Jelly | i727,False,False,False,False,False,True,False,True,True
+SCH,2.32 Jelly | i727,False,False,False,False,False,True,False,True,True
+SCH,2.40 Jelly | i727,False,False,False,False,False,True,False,True,True
+SCH,2.40 Jelly | i729,False,False,False,False,True,True,False,True,True
+SCH,2.40 Jelly | i730,False,False,True,False,True,True,False,True,True
+SCH,2.49 Jelly | i730,False,True,True,False,True,True,False,True,True
+SCH,2.49 Moqueca | i727,False,True,False,False,False,True,False,True,True
+SCH,2.49 Moqueca | i729,False,True,False,False,True,True,False,True,True
+SCH,2.49 Moqueca | i730,False,True,True,False,True,True,False,True,True
+SCH,2.50 Moqueca | 1027 PIE | i730,False,True,True,False,False,True,False,True,True
+SCH,2.50 Moqueca | 1330 PIE | i730,False,True,True,True,True,True,False,True,True
+SCH,2.50 Moqueca | 1401 PIE | i730,False,True,True,True,False,True,False,True,True
+SCH,2.50 Moqueca | i727,False,True,False,False,False,True,False,True,True
+SCH,2.50 Moqueca | i729,False,True,False,False,True,True,False,True,True
+SCH,2.50 Moqueca | i730,False,True,True,False,True,True,False,True,True
+SMN,2.46 BIS,False,True,True,False,True,True,True,True,True
+SMN,2.46 BIS by Melds,False,True,False,False,True,False,False,True,True
+SMN,2.47 BIS,False,True,True,False,True,True,False,True,True
+SMN,2.47 BIS by Melds,False,True,False,False,True,True,True,True,True
+SMN,2.48 BIS,False,True,True,False,True,True,False,True,True
+SMN,2.48 BIS by Melds,False,True,False,False,True,True,False,True,True
+VPR,2.11 BIS (NIN Compatible),True,True,False,False,True,False,True,False,True
+WAR,2.40 BIS,True,False,False,True,False,False,True,False,True
+WAR,2.45 BIS,True,False,False,True,False,True,True,False,True
+WAR,2.50 BIS,True,False,True,True,False,False,True,False,True
+WHM,2.32 | 626 PIE | i727,False,False,False,False,False,True,False,True,True
+WHM,2.32 | 791 PIE | i729,False,False,False,False,True,True,False,True,True
+WHM,2.32 | 956 PIE | i730,False,False,True,False,True,True,False,True,True
+WHM,2.48 | 1330 PIE | i730,False,True,True,True,True,True,False,True,True
+WHM,2.48 | 626 PIE | i727,False,True,False,False,False,True,False,True,True
+WHM,2.48 | 956 PIE | i730,False,True,True,False,True,True,False,True,True
+WHM,2.49 | 791 PIE | i729,False,True,False,False,True,True,False,True,True
+WHM,2.50 | 1330 PIE | i730,False,True,True,True,True,True,False,True,True
+WHM,2.50 | 626 PIE | i727,False,True,False,False,False,True,False,True,True
+WHM,2.50 | 791 PIE | i729,False,True,False,False,True,True,False,True,True
+WHM,2.50 | 956 PIE | i730,False,True,True,False,True,True,False,True,True
